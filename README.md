@@ -7,15 +7,15 @@ Music Discord Bot based on YTDL
 
 * Node.js
 
-** [YouTube Data API](https://developers.google.com/youtube/v3/) - Requesting youtube service
-** [Discord Token](https://discordapp.com/developers/applications/) - Using discord api
+* [YouTube Data API](https://developers.google.com/youtube/v3/) - Requesting youtube service
+* [Discord Token](https://discordapp.com/developers/applications/) - Using discord api
 
 
 ### Installing
 
-** Set up varibles in settings.json file
-** if you have node.js as environment variable, run Start.bat
-** else run index.js from node exe
+* Set up varibles in settings.json file
+* if you have node.js as environment variable, run Start.bat
+* else run index.js from node exe
 
 
 ## Built With
